@@ -1,4 +1,5 @@
-ubscribers numbers function"""
+#!/usr/bin/python3
+"""get subscribers numbers function"""
 
 
 import json
